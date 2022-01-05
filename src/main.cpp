@@ -10,7 +10,8 @@
 #include "sensors.h"
 
 // This is my version of main.cpp
-// this is my second comment
+// this is my second comment, this is the initial fork
+// hello i am a comment
 
 Thread sendingThreadHandle;
 Thread displayThreadHandle;
